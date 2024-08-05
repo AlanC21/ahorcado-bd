@@ -14,8 +14,8 @@ Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes pro
 ### 1. Clona el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/AlanC21/ahorcado-bd.git
+cd ahorcado-bd
 ```
 
 ### 2. Instala las dependencias del proyecto
